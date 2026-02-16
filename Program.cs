@@ -1,11 +1,4 @@
-﻿
-using System.Text.Json;
-
-Emil Koleszár
-10:14(1 perccel ezelőtt)
-címzett: én
-
-using System.Text.Json;
+﻿using System.Text.Json;
 
 namespace ConsoleApp3
 {
